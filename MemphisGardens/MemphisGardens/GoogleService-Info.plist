@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>572855190319-csfjg236e11tijhurt2tfsu4k3tc83bq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.572855190319-csfjg236e11tijhurt2tfsu4k3tc83bq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIYVGBkLZsM3_CAyVLujelrXjfXn1OtTk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>572855190319</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.experience.MemphisGardens</string>
+	<key>PROJECT_ID</key>
+	<string>memphisgarden</string>
+	<key>STORAGE_BUCKET</key>
+	<string>memphisgarden.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:572855190319:ios:77f077af7de8780004d7da</string>
+</dict>
+</plist>
